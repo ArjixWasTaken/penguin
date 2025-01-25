@@ -1,15 +1,10 @@
 <schemalist gettext-domain="gnome-shell-extensions">
-  <schema id="org.gnome.shell.extensions.penguin-ai-chatbot"
-      path="/org/gnome/shell/extensions/penguin-ai-chatbot/">
+  <schema id="org.gnome.shell.extensions.penguin-arjixwastaken"
+      path="/org/gnome/shell/extensions/penguin-arjixwastaken/">
 
-    <key name="open-router-api-key" type="s">
-        <default>"Input your key here"</default>
-        <summary>Open Router Key</summary>
-        <description>Add the Open Router Key in order to use this extension</description>
-    </key>
     <key name="llm-model" type="s">
-        <default>"meta-llama/llama-3.1-8b-instruct:free"</default>
-        <summary>LLM model from Open Router</summary>
+        <default>"llama3.2:3b"</default>
+        <summary>LLM model from ollama</summary>
         <description>LLM model for prompting</description>
     </key>
     <key name="history" type="s">
