@@ -1,6 +1,6 @@
 # Penguin: AI Chatbot (ollama edition)
 
-A GNOME extension that uses ollama to provide a minimal AI chat.
+A GNOME extension that uses ollama to provide a minimal AI chat. <br/>
 Fork of [Penguin-AI-Chatbot-for-GNOME](https://gitlab.com/martijara/Penguin-AI-Chatbot-for-GNOME)
 
 ![Screenshot](./assets/image.png)
